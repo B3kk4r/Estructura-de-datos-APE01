@@ -1,2 +1,0 @@
-﻿# Estructura-de-datos-APE01
-#### Este repositorio se creó para trabajar en un APE de la materia de estructura de datos.  
